@@ -14,8 +14,8 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 **Repository Tier:** Bronze <br>
 **Technology:** Node.js, Express <br>
-**Category:** Web Framework <br>
-**Order:** 0 <br>
+**Category:** Web Framework, Examples <br>
+**Order:** 42 <br>
 
 ## Parameters
 
